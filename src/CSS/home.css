@@ -1,0 +1,43 @@
+/* custom-navbar.css */
+
+/* Target the navbar-toggler-icon class to override Bootstrap's default styles */
+.navbar-toggler .navbar-toggler-icon {
+    /* Ensure the icon is visible */
+    background-color: transparent !important; /* Set background color as transparent to remove default styles */
+    border: none; /* Remove the default border */
+    width: 24px; /* Adjust the width of the bars */
+    height: 3px; /* Adjust the height of the bars */
+    position: relative;
+  }
+  
+  /* Style the bars individually */
+  .navbar-toggler .navbar-toggler-icon::before,
+  .navbar-toggler .navbar-toggler-icon::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: white; /* Set the color of the bars to white */
+    position: absolute;
+    left: 0;
+    transition: transform 0.2s ease; /* Optional: Add a transition effect */
+  }
+  
+  /* Position the middle bar */
+  .navbar-toggler .navbar-toggler-icon::before {
+    top: -6px; /* Adjust the vertical position of the first bar */
+  }
+  
+  /* Position the bottom bar */
+  .navbar-toggler .navbar-toggler-icon::after {
+    bottom: -6px; /* Adjust the vertical position of the second bar */
+  }
+  
+  .inform-custom {
+    float: right;
+    margin-right: 20px;
+    width: 300px;
+    height: auto;
+  }
+  
+  

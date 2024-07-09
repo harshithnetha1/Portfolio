@@ -1,0 +1,25 @@
+.developer-text {
+    color: white; /* Adjust text color for visibility */
+    font-size: 1.5rem; /* Adjust font size as needed */
+    text-align: center; /* Center align text */
+    margin-top: 20px; /* Adjust spacing */
+  }
+  
+  .italic-text {
+    font-style: italic; 
+    font-size: 50px;
+  }
+  
+  .uppercase-text {
+  text-transform: uppercase; 
+  font-weight: bold; 
+  font-size: 80px;
+  
+}
+.custom-card {
+    width: 300px; /* Specify the desired width */
+    height: 400px; /* Specify the desired height */
+    margin: auto; /* Center the card */
+    align-content: end;
+  }
+

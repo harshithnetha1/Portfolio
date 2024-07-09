@@ -1,0 +1,24 @@
+.inform-card {
+    float: right;
+    width: 900px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    height: 400px;
+    padding: 0%;
+  }
+  
+  .inform-title {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .inform-card {
+      width: 100%;
+      
+      float: none;
+      margin: 0 auto;
+    }
+  }
+  
