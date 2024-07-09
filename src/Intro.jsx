@@ -8,7 +8,7 @@ export default function Intro() {
       <Card.Body>
         <Card.Title className="inform-title">BASIC DETAILS</Card.Title>
         <Card.Text>
-          Hello
+          Hi
           <br/>
           I am <span style={{ fontSize: '18px' }}> Harshith Netha M</span>, currently working at Tata Consultancy Services (TCS) with two years of professional experience as a Front-End Developer. During my tenure at TCS, I have honed my skills in creating dynamic and responsive web applications. My technical expertise includes HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React.js.
           <br/>
