@@ -55,7 +55,7 @@ export default function Home() {
                   className="d-inline-block align-top"
                 />
               </Navbar.Brand>
-              <Navbar.Brand href="#home" style={{ color: 'white', fontSize: '20px', float: 'left' }}><Link to="/">HARSHITH NETHA</Link></Navbar.Brand>
+              <Navbar.Brand href="#home"><Link to="/" style={{textDecoration:"none", color: 'white', fontSize: '20px', float: 'left' }}>HARSHITH NETHA</Link></Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav"  style={{color:'white' }}/>
               <Navbar.Collapse id="basic-navbar-nav" style={{ color: 'blue' }}>
                 <Nav className="ms-auto" style={{ alignItems:"center", zIndex: '10' }}>
