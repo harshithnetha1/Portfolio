@@ -41,7 +41,7 @@ export default function Work() {
             zIndex: -1,
           }}
         >
-          <source src="/sea-shore.mp4" type="video/mp4" className="videos" />
+          <source src="sea-shore.mp4" type="video/mp4" className="videos" />
           Your browser does not support the video tag.
         </video>
         <div style={{ position: 'relative', zIndex: 1 }}>
