@@ -16,6 +16,7 @@
   @media (max-width: 768px) {
     .inform-card {
       width: 100%;
+      height: fit-content;
       
       float: none;
       margin: 0 auto;
