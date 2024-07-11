@@ -3,7 +3,7 @@
     width: 900px;
     margin-right: 20px;
     margin-bottom: 40px;
-    height: 400px;
+    height: fit-content;
     padding: 0%;
   }
   
@@ -17,7 +17,6 @@
     .inform-card {
       width: 100%;
       height: fit-content;
-      
       float: none;
       margin: 0 auto;
     }
