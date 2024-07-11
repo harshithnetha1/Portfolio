@@ -44,7 +44,7 @@ export default function Home() {
   Your browser does not support the video tag.
 </video>
         <div style={{ position: 'relative', zIndex: 1 }}>
-          <Navbar expand="lg" style={{ position: 'absolute', top: 0, width: '100%',paddingBottom:'0px' }}>
+          <Navbar expand="lg" style={{ position: 'absolute', top: 0, width: '100%',height:'fit-content',paddingBottom:'0px' }}>
             <Container>
               <Navbar.Brand href="#home">
                 <img
@@ -55,7 +55,7 @@ export default function Home() {
                   className="d-inline-block align-top"
                 />
               </Navbar.Brand>
-              <Navbar.Brand href="#home" style={{ color: 'white', fontSize: '20px', float: 'left' }}>HARSHITH NETHA</Navbar.Brand>
+              <Navbar.Brand href="#home" style={{ color: 'white', fontSize: '20px', float: 'left' }}><Link to="/">HARSHITH NETHA</Link></Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav"  style={{color:'white' }}/>
               <Navbar.Collapse id="basic-navbar-nav" style={{ color: 'blue' }}>
                 <Nav className="ms-auto" style={{ alignItems:"center", zIndex: '10' }}>
