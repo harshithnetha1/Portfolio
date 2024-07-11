@@ -1,7 +1,7 @@
 import React from 'react'
 import Preloader from './Preloader'
 import Home from './Home'
-import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
+import { Routes, Route, HashRouter } from "react-router-dom";
 import Work from './Work';
 
 
