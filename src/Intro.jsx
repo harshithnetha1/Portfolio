@@ -10,7 +10,7 @@ export default function Intro() {
         <Card.Text>
           Hi
           <br/>
-          I am <span style={{ fontSize: '18px' }}> Harshith Netha M</span>, currently working at Tata Consultancy Services (TCS) with two years of professional experience as a Front-End Developer. During my tenure at TCS, I have honed my skills in creating dynamic and responsive web applications. My technical expertise includes HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React.js.
+          I am <span style={{ fontSize: '18px' }}> Harshith Netha M</span>, currently working at Tata Consultancy Services (TCS) with Four years of professional experience as a Front-End Developer. During my tenure at TCS, I have honed my skills in creating dynamic and responsive web applications. My technical expertise includes HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React.js.
           <br/>
           In addition to my core competencies, I have a strong understanding of modern web development practices and UI/UX principles. I am adept at using state management libraries such as Redux and have experience in integrating RESTful APIs. My background in agile methodologies ensures that I can effectively collaborate with cross-functional teams and deliver high-quality software on time.
           <br/>
