@@ -11,7 +11,7 @@ export default function Last() {
           <h3  style={{color:'white',position:'relative', fontSize: '50px'}}><span className="italic-text" >my</span> Social Connects</h3>
             <ul className="footer__items clean-list">
               <li className="footer__item">
-                <a className="footer__link-item" href="www.linkedin.com/in/harshithnetha" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                <a className="footer__link-item" href="https://www.linkedin.com/in/harshithnetha" target="_blank" rel="noopener noreferrer">LinkedIn</a>
               </li>
               <li className="footer__item">
                 <a className="footer__link-item" href="https://docs.google.com/forms/d/e/1FAIpQLSeUoipKJowEj0LeUlDb_7s_XgKuZn9yk4WRQy4F_iwCyrNcBg/viewform?usp=sf_link">Gmail</a>
