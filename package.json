@@ -1,5 +1,5 @@
 {
-  "homepage": "https://harshithnetha1.github.io/Portfolio",
+  "homepage": "https://harshithnetha1.github.io/Portfolio1",
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
@@ -8,7 +8,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.3",
-    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18.3.1",
@@ -42,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "react-router-dom": "^6.24.1"
   }
 }
